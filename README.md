@@ -1,4 +1,4 @@
-# App de pruebas varias en Angular 10+
+# App de pruebas varias en Angular 10
 Trabajo con IONIC para la creación de PWA basadas en Angular. Además, continúo con nuevas funcionalidades de Angular.
 
 ## Para usar
